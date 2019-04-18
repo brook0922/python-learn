@@ -1,0 +1,5 @@
+>> jupyter 轉換為 html
+jupyter nbconvert --execute --to html notebook.ipynb
+
+>> 套件升級指定版本
+pip install --upgrade <package>==<version>
